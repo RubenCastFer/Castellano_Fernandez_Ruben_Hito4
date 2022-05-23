@@ -36,7 +36,7 @@ $(document).ready(function(){
           },
           archivo: {
             accept:"image/*",
-            extension:"png|jpe?g|gif"
+            extension:"png|jpe?g|gif|webp"
           }
 
         },
